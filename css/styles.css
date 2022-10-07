@@ -1,0 +1,62 @@
+h1 {
+
+    font-family: Geneva;
+    text-align: center;
+    color: #4682B4;
+    border: 4px outset #C0C0C0;
+    background-color: #F7F6F6;
+    border-radius: 100px;
+}
+
+h2 {
+    text-align: center;
+    color: #CD5C5C;
+    font-family: Tahoma;
+    border: 4px outset #C0C0C0;
+    background-color: #F7F6F6;
+    border-radius: 100px;
+}
+
+.Bio{
+    text-align: center; 
+}
+
+img{
+    border-radius: 15px;
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px ridge #708090;
+}
+
+.ABM{
+    text-align: center;
+    font-family: Geneva;
+}
+
+.bodyp{
+    text-align: text;
+}
+ .MP{
+    font-family: Geneva;
+ }
+
+h3{
+    color: #FF6347;
+}
+
+.CM{
+    text-align: center;
+    font-family: Geneva;
+}
+
+.Contact{
+    text-align: center;
+    font-family: Rockwell;
+}
+
+html{
+    background-color: #F0FFF0;
+    font-family: Rockwell;
+}
